@@ -2,9 +2,9 @@
   <img src="FrameForge.png" width="350">
 </p>
 
-# Lew's FFMPEG Pulldown/IVTC Tool
+# FrameForge
 
-**Lew's FFMPEG Pulldown/IVTC Tool** is a small Windows batch-based FFmpeg front-end designed for physical-media enthusiasts who work with DVD and Blu-ray rips.  
+**FrameForge** is a small Windows batch-based FFmpeg front-end designed for physical-media enthusiasts who work with DVD and Blu-ray rips.  
 It automates common restoration tasks like soft-telecine correction, deinterlacing, and pulldown creation — with clean timestamps and sane defaults.
 
 Built by **Lewis (HeyThereImLews)** for personal media-restoration workflows.
@@ -39,7 +39,7 @@ Typical IVTC filters (`pullup/decimate`) are designed for **hard telecine** and 
 - Break timestamps
 - Cause audio sync issues
 
-**Lew's FFMPEG Pulldown/IVTC Tool** correctly handles **soft-telecine progressive sources** by rebuilding timestamps instead of dropping frames.
+**FrameForge** correctly handles **soft-telecine progressive sources** by rebuilding timestamps instead of dropping frames.
 
 ---
 
