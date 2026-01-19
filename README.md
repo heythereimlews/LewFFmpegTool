@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="frameforge_logo.png" width="350">
+</p>
+
 # Lew's FFMPEG Pulldown/IVTC Tool
 
 **Lew's FFMPEG Pulldown/IVTC Tool** is a small Windows batch-based FFmpeg front-end designed for physical-media enthusiasts who work with DVD and Blu-ray rips.  
