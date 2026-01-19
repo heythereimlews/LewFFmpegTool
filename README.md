@@ -35,7 +35,7 @@ Typical IVTC filters (`pullup/decimate`) are designed for **hard telecine** and 
 - Break timestamps
 - Cause audio sync issues
 
-**SoftTelecineSlayer** correctly handles **soft-telecine progressive sources** by rebuilding timestamps instead of dropping frames.
+**Lew's FFMPEG Pulldown/IVTC Tool** correctly handles **soft-telecine progressive sources** by rebuilding timestamps instead of dropping frames.
 
 ---
 
