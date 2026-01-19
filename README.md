@@ -1,6 +1,6 @@
-# SoftTelecineSlayer
+# Lew's FFMPEG Pulldown/IVTC Tool
 
-**SoftTelecineSlayer** is a small Windows batch-based FFmpeg front-end designed for physical-media enthusiasts who work with DVD and Blu-ray rips.  
+**Lew's FFMPEG Pulldown/IVTC Tool** is a small Windows batch-based FFmpeg front-end designed for physical-media enthusiasts who work with DVD and Blu-ray rips.  
 It automates common restoration tasks like soft-telecine correction, deinterlacing, and pulldown creation — with clean timestamps and sane defaults.
 
 Built by **Lewis (HeyThereImLews)** for personal media-restoration workflows.
