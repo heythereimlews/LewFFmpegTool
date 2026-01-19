@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frameforge.png" width="350">
+  <img src="FrameForge.png" width="350">
 </p>
 
 # Lew's FFMPEG Pulldown/IVTC Tool
